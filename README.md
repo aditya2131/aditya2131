@@ -4,7 +4,7 @@
 <br/>
 
 - 🧑‍💻 I’m an undergraduate from Bengaluru, India.
-- 🌱 Proficient in working with NodeJs, ExpressJs, ReactJs, MongoDB, Selenium, Java, NextJs.  
+- 🌱 Proficient in working with NodeJs, ExpressJs, ReactJs, MongoDB, Selenium, Java, NextJs, Postman.  
 - 👯 I’m looking to collaborate on technologies wandering around web development  world.
 - 💬 Worked as a Software Engineer (Intern) at Zummit Infolabs (bengaluru), made exciting projects as you can explore my repositories.
 - ⚡ Interest: An anime fan, eh? me too!(Otaku).
