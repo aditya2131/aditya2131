@@ -26,16 +26,27 @@
 <br/>
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=aditya2131&theme=dark&hide_total_contributions=true)](https://git.io/streak-stats)
-
+![aditya2131's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditya2131&theme=shades-of-purple&hide_border=false)
 <br/>
 <br/>
-
-<a href="https://x.com/adityam39992974">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya2131&hide=html,css&layout=compact" />
-</a>
-
+![aditya2131's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya2131&theme=shades-of-purple&show_icons=true&hide_border=false&layout=compact)
+<br/>
 ![Visitor Count](https://profile-counter.glitch.me/aditya2131/count.svg)
+<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-mishra-6k/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=800080" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/adityam39992974" target="_blank">
+    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white&color=800080" alt="X" />
+  </a>
+  <a href="https://github.com/aditya2131" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&color=800080" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/u/aditya_6000/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white&color=800080" alt="LeetCode" />
+  </a>
+</p>
 
 
 
